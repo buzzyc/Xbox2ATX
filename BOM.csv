@@ -1,0 +1,8 @@
+Quantity,Designator,Value,Footprint,Supplier URL,Comments
+2,"C1, C2",10uF,Capacitor SMD 0603,,
+1,J1,ATX-24,Molex Mini-Fit Jr 2x12 Horizontal,https://www.aliexpress.com/item/32854035770.html,
+1,J2,XBOX-20,,,Source from faulty ATX PSU or OG Xbox power supply
+2,"Q1, Q2",MMBT3904,SMD SOT-23,https://www.aliexpress.com/item/1005002918240151.html,
+2,"R1, R2",1K,Resistor SMD 0603,,
+1,R3,470,Resistor SMD 0603,,
+1,U1,LM1117-3.3,SMD SOT-223-3,https://www.aliexpress.com/item/1005002487704059.html,
